@@ -9,3 +9,5 @@
 .gitignore
 
 .terraform.*
+
+.terraform.lock.hcl
