@@ -6,8 +6,8 @@
 *.tfstate
 *.tfstate.*
 
-.gitignore
+*.gitignore
 
-.terraform.*
+*.terraform.*
 
-.terraform.lock.hcl
+*.terraform.lock.hcl
