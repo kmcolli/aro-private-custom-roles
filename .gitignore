@@ -5,3 +5,7 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
+
+.gitignore
+
+.terraform.*
