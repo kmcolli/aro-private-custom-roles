@@ -20,7 +20,7 @@ variable "vnet_role" {
 
 variable "rp_role" {
   type        = string
-  default = "Contributor"
+  default = "ARO RP Custom Role Kevcolli"
   description = "Azure Role for the resource provider"
 }
 
